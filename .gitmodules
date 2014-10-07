@@ -1,0 +1,6 @@
+[submodule "STM32"]
+	path = STM32
+	url = git@github.com:sdlylshl/sw_stm32.git
+[submodule "MSP430"]
+	path = MSP430
+	url = git@github.com:sdlylshl/sw_msp430
